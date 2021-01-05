@@ -1,0 +1,23 @@
+{
+  "name": "snow-report",
+  "version": "1.0.0",
+  "description": "Revelstoke Mountain Snow Report",
+  "main": "snow-report.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CameronDunning/snow-report.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CameronDunning/snow-report/issues"
+  },
+  "homepage": "https://github.com/CameronDunning/snow-report#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0"
+  }
+}
