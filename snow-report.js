@@ -16,7 +16,8 @@ const axios = require('axios');
     );
     let newSnow = parseInt(newSnowString);
     if (newSnow > 4) {
-      let numbers = ['+16474981270', /*'+16479608501'*/];
+    // if (true) {
+      let numbers = ['+16474981270', '+16479608501'];
 
       numbers.forEach(number => {
         client.messages
